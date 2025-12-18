@@ -1,9 +1,9 @@
-# 🧠 Social Engineering and Human Hacking
+# 🧠 Social Engineering
 
 ## Research Paper
 
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT) – Kandy UNI  
-**Module:** IE2022 – Introduction to Cyber Security  
+**Module:** Introduction to Cyber Security  
 **Year:** 2025  
 
 ---
