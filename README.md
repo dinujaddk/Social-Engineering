@@ -51,4 +51,4 @@ You are free to share and adapt this material with proper credit.
 BSc (Hons) in Information Technology (Cyber Security Specialization)  
 Sri Lanka Institute of Information Technology (SLIIT) – Kandy UNI  
 
-> *“In cybersecurity, the human mind is both the greatest weakness and the greatest defense.”*
+> *“social engineering targets the weakest link in cyber security which is the human factor.”*
