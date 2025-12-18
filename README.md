@@ -41,7 +41,8 @@ This paper provides an in-depth analysis of social engineering attacks, their hi
 This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
 You are free to share and adapt this material with proper credit.
 
-🔗 *View License Details*
+
+🔗 **License URL:** https://creativecommons.org/licenses/by/4.0/
 
 ---
 
