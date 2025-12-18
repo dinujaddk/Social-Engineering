@@ -3,7 +3,7 @@
 ## Research Paper
 
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT) – Kandy UNI  
-**Course:** IE2022 – Introduction to Cyber Security  
+**Module:** IE2022 – Introduction to Cyber Security  
 **Year:** 2025  
 
 ---
